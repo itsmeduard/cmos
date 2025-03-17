@@ -225,10 +225,16 @@ You may watch this video: **[Click Me](https://drive.google.com/file/d/1NvEIjxkw
 
 ## Full demo as a Sales Consultant
 
-Watch Here: **[Click Me](https://drive.google.com/file/d/1NvEIjxkwoQF9z_hOMGWDtxJLvsRxKmcJ/view?usp=sharing)**
+Watch Here: **[Click Me](https://drive.google.com/file/d/1zPv9hDSiU5ZQTEvLKudhQmL2XWRJ3K6j/view?usp=sharing)**
+![Filsen Technical Exam Img 9](https://drive.google.com/uc?export=view&id=1p22f-0k3ntqyTupvqa0WCQdmDMMRyGkH)
 
 - - - - -
 
 ## Full demo as a Manager
 
-Watch Here: **[Click Me](https://drive.google.com/file/d/1NvEIjxkwoQF9z_hOMGWDtxJLvsRxKmcJ/view?usp=sharing)**
+Watch Here: **[Click Me](https://drive.google.com/file/d/1aKqQ4NbzF5V6cvOPwhWeKu6DSBPoc4te/view?usp=sharing)**
+![Filsen Technical Exam Img 9](https://drive.google.com/uc?export=view&id=1xtCIKB4bGWG49YTa4DqCKLwHUn6ffyn4)
+
+- - - - -
+
+© 2025 **[Filsen Eduard Valdez](https://filseneduardvaldez.bss.design)**. All rights reserved.
