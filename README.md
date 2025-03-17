@@ -9,6 +9,7 @@ The **[Customer Membership Onboarding System (CMOS)](https://personal-xepmlvmy.o
 [CMOS](https://personal-xepmlvmy.outsystemscloud.com/CMOS_Common/Login) effectively addresses the client's need for a structured and efficient membership onboarding process, ensuring data accuracy and a clear workflow between sales consultants and managers.
 
 The tech stack used for this project is OutSystems Service Studio(IDE), OutSystems Service Center, OutSystems Lifetime, HTML, CSS, Javascript.
+
 - - - - -
 
 ## Screenshots 
@@ -73,7 +74,33 @@ You will be assessed on
 - Design of the entities (20%)
 - Ease of understanding, structure and maintainability of logic (20%)
 
+- - - - -
+
+## Breakdown of key concepts
+
+**Project Backlog:** **[Click Me](https://docs.google.com/spreadsheets/d/10pxh3EJtqcsk_XAea79l0E1wCeH69G0-EBbX9YTU84U/edit?gid=0#gid=0)**
+
+![Filsen Technical Exam Img 4](https://drive.google.com/uc?export=view&id=1UejJ2Nh7-LH9UAJ7ZPTDp73DTdWgld_O)
+
+**For Creating Tickets:** **[Click Me](https://docs.google.com/spreadsheets/d/10pxh3EJtqcsk_XAea79l0E1wCeH69G0-EBbX9YTU84U/edit?gid=561924833#gid=561924833)**
+
+![Filsen Technical Exam Img 5](https://drive.google.com/uc?export=view&id=1OOevu-17KZIt_a8lDdB6Dh20XEdhO9X5)
+
+**Acceptance Criteria:** **[Click Me](https://docs.google.com/spreadsheets/d/10pxh3EJtqcsk_XAea79l0E1wCeH69G0-EBbX9YTU84U/edit?gid=398248072#gid=398248072)**
+
+![Filsen Technical Exam Img 6](https://drive.google.com/uc?export=view&id=11zGdtlYeNQWbPFenGhpv555mu0gunIRP)
+
+**User Test Cases:** **[Click Me](https://docs.google.com/spreadsheets/d/10pxh3EJtqcsk_XAea79l0E1wCeH69G0-EBbX9YTU84U/edit?gid=2142957678#gid=2142957678)**
+
+![Filsen Technical Exam Img 7](https://drive.google.com/uc?export=view&id=1tDfy1PVQWixbyQxxNCX9FUyuSxahTB_H)
+
+- - - - -
+
 ## How to use
+
+**[Click Here](https://personal-xepmlvmy.outsystemscloud.com/CMOS_Common/Login)** to access Customer Membership Onboarding System (CMOS)
+
+Try this alternative: https://personal-xepmlvmy.outsystemscloud.com/CMOS_Common/Login
 
 Sales Consultant credentials:
 
@@ -101,76 +128,84 @@ Password: password1234
 - Open your web browser: (e.g., Chrome, Firefox, Safari, Edge).
 - Enter the website address: Type the web address of your loyalty membership system into the address bar and press Enter. (You'll need to know the specific web address of the system.)
 - Log in:
-- Enter your Sales Consultant email address: (e.g., sales[email address removed]).
+- Enter your Sales Consultant email address: (e.g., sales_consultant1@itsoln.com).
 - Enter your password.
-Click the "Login" button.
+- Click the "Login" button.
+
 2. Creating a New Membership Application:
-
-Find the "New Application" or "Create Member" button: Look for a button or link that allows you to start a new membership application. This is usually located on the main dashboard or a menu.
-Click the "New Application" button.
+- Find the "Add Member" button: Look for a button or link that allows you to start a new membership application. This is usually located on the main dashboard or a menu (Membership).
+- Click the "Add Member" button.
+  
 3. Filling in the Customer Information:
-
-Salutation:
-Click the dropdown menu next to "Salutation".
-Select the appropriate salutation (Mr., Mrs., Mdm., Ms.).
-Full Name:
-Click in the "Full Name" text box.
-Type the customer's full name.
+- Salutation:
+- Click the dropdown menu next to "Salutation".
+- Select the appropriate salutation (Mr., Mrs., Mdm., Ms.).
+- Full Name:
+- Click in the "Full Name" text box.
+- Type the customer's full name.
 Important: Make sure the name contains only letters and numbers, and is no longer than 80 characters.
-Date of Birth:
-Click in the "Date of Birth" field.
-Use the date picker to select the customer's date of birth.
+
+- Date of Birth:
+- Click in the "Date of Birth" field.
+- Use the date picker to select the customer's date of birth.
 Important: Verify that the customer is 18 years or older.
-Gender:
-Select either "Male" or "Female" by clicking the corresponding radio button.
-Mobile Phone Number:
-Click in the "Mobile Phone Number" text box.
-Type the customer's mobile phone number.
+
+- Gender:
+- Select either "Male" or "Female" by clicking the corresponding radio button.
+- Mobile Phone Number:
+- Click in the "Mobile Phone Number" text box.
+- Type the customer's mobile phone number.
 Important: The number must be 8 digits long and start with 6, 8, or 9.
+
 4. Submitting the Application:
-
-Review the information: Double-check all the entered information to make sure it's correct.
-Click the "Submit" or "Save" button: This will send the application to the manager for approval.
+- Review the information: Double-check all the entered information to make sure it's correct.
+- Click the "Save" button: This will send the application to the manager for approval.
+  
 5. Checking the Application Status:
-
-Navigate to the "Application Status" or "My Applications" section: Look for a section that displays the status of your submitted applications.
-Find the application: Locate the application you just submitted.
-Check the status:
-If the status is "Approved," the membership number will be displayed.
-If the status is "Rejected," the manager's comment will be displayed.
-II. Manager Guide: Reviewing and Approving/Rejecting Membership Applications
+- Navigate to the "Membership" section: Look for a section that displays the status of your submitted applications.
+- Find the application: Locate the application you just submitted.
+- Check the status:
+- If the status is "Approved," the membership number will be displayed.
+- If the status is "Rejected," the manager's comment will be displayed.
+  
+**II. Manager Guide: Reviewing and Approving/Rejecting Membership Applications**
 
 1. Accessing the System:
-
-Open your web browser.
-Enter the website address.
-Log in:
-Enter your Manager email address: (e.g., manager1@itsoln.com).
-Enter your password.
-Click the "Login" button.
+- Open your web browser.
+- Enter the website address.
+- Log in:
+- Enter your Manager email address: (e.g., manager1@itsoln.com).
+- Enter your password.
+- Click the "Login" button.
+  
 2. Reviewing Pending Applications:
-
-Find the "Pending Applications" or "Review Applications" section: Look for a section that displays the applications waiting for approval.
-Select an application: Click on the application you want to review.
+- Find the "Pending" section: Look for a section that displays the applications waiting for approval.
+- Select an application: Click on the application you want to review.
+  
 3. Reviewing Customer Information:
+- Carefully review all the customer information: Check the Salutation, Full Name, Date of Birth, Gender, and Mobile Phone Number.
+- Edit information (if necessary): If you need to make corrections, click on the field and make the changes.
 
-Carefully review all the customer information: Check the Salutation, Full Name, Date of Birth, Gender, and Mobile Phone Number.
-Edit information (if necessary): If you need to make corrections, click on the field and make the changes.
 4. Approving or Rejecting the Application:
+- To Approve:
+- Click the "Save" Or "Submit" button.
+- The system will automatically generate an 8-digit membership number.
+- To Reject:
+- Click the dropdown "Reject".
+- Enter a comment: In the "Comment" text box, type the reason for rejecting the application. (Maximum 1000 characters).
+- Click the "Save" or "Submit" button.
 
-To Approve:
-Click the "Approve" button.
-The system will automatically generate an 8-digit membership number.
-To Reject:
-Click the "Reject" button.
-Enter a comment: In the "Comment" text box, type the reason for rejecting the application. (Maximum 1000 characters).
-Click the "Confirm Reject" button.
 5. Monitoring Application Status:
-
-Navigate to the "Application History" or "Reviewed Applications" section: Review the applications you have approved or rejected.
+- Navigate to the "Application History" or "Reviewed Applications" section: Review the applications you have approved or rejected.
 Important Notes for All Users:
 
 Password Security: Keep your login credentials secure. Do not share your password with anyone.
-System Updates: If you encounter any problems or have questions, contact the system administrator or IT support.
+
+System Updates: If you encounter any problems or have questions, contact the system administrator(**[Filsen Eduard Valdez](https://filseneduardvaldez.bss.design)**).
+
 Data Accuracy: Ensure that all information entered is accurate to avoid errors.
+
 Log out: When you are finished using the system, always log out to protect your account.
+
+- - - - -
+
