@@ -78,19 +78,19 @@ You will be assessed on
 
 ## Breakdown of key concepts
 
-**Project Backlog:** **[Click Me](https://docs.google.com/spreadsheets/d/10pxh3EJtqcsk_XAea79l0E1wCeH69G0-EBbX9YTU84U/edit?gid=0#gid=0)**
+**1. Project Backlog:** **[Click Me](https://docs.google.com/spreadsheets/d/10pxh3EJtqcsk_XAea79l0E1wCeH69G0-EBbX9YTU84U/edit?gid=0#gid=0)**
 
 ![Filsen Technical Exam Img 4](https://drive.google.com/uc?export=view&id=1UejJ2Nh7-LH9UAJ7ZPTDp73DTdWgld_O)
 
-**For Creating Tickets:** **[Click Me](https://docs.google.com/spreadsheets/d/10pxh3EJtqcsk_XAea79l0E1wCeH69G0-EBbX9YTU84U/edit?gid=561924833#gid=561924833)**
+**2. For Creating Tickets:** **[Click Me](https://docs.google.com/spreadsheets/d/10pxh3EJtqcsk_XAea79l0E1wCeH69G0-EBbX9YTU84U/edit?gid=561924833#gid=561924833)**
 
 ![Filsen Technical Exam Img 5](https://drive.google.com/uc?export=view&id=1OOevu-17KZIt_a8lDdB6Dh20XEdhO9X5)
 
-**Acceptance Criteria:** **[Click Me](https://docs.google.com/spreadsheets/d/10pxh3EJtqcsk_XAea79l0E1wCeH69G0-EBbX9YTU84U/edit?gid=398248072#gid=398248072)**
+**3. Acceptance Criteria:** **[Click Me](https://docs.google.com/spreadsheets/d/10pxh3EJtqcsk_XAea79l0E1wCeH69G0-EBbX9YTU84U/edit?gid=398248072#gid=398248072)**
 
 ![Filsen Technical Exam Img 6](https://drive.google.com/uc?export=view&id=11zGdtlYeNQWbPFenGhpv555mu0gunIRP)
 
-**User Test Cases:** **[Click Me](https://docs.google.com/spreadsheets/d/10pxh3EJtqcsk_XAea79l0E1wCeH69G0-EBbX9YTU84U/edit?gid=2142957678#gid=2142957678)**
+**4. User Test Cases:** **[Click Me](https://docs.google.com/spreadsheets/d/10pxh3EJtqcsk_XAea79l0E1wCeH69G0-EBbX9YTU84U/edit?gid=2142957678#gid=2142957678)**
 
 ![Filsen Technical Exam Img 7](https://drive.google.com/uc?export=view&id=1tDfy1PVQWixbyQxxNCX9FUyuSxahTB_H)
 
@@ -207,5 +207,28 @@ Data Accuracy: Ensure that all information entered is accurate to avoid errors.
 
 Log out: When you are finished using the system, always log out to protect your account.
 
+**Take note:** The system employs 'Consultant' and 'Membership' roles, restricting access to specific functions based on user role.
+
 - - - - -
 
+## How to set things up
+
+1. Once you've deployed to the new environment from staging, and assuming you have Service Center or Lifetime access, you'll need to configure users and start the necessary timers.
+2. In the CMOS_User_CS module, run the timer. This will generate a new user account for system access.
+This action is the sole requirement for system access.
+
+You may watch this video: **[Click Me](https://drive.google.com/file/d/1NvEIjxkwoQF9z_hOMGWDtxJLvsRxKmcJ/view?usp=sharing)**
+![Filsen Technical Exam Img 8](https://drive.google.com/uc?export=view&id=13xXiWk1sRNTGbnbahOXIASNnL579L95w)
+
+
+- - - - -
+
+## Full demo as a Sales Consultant
+
+Watch Here: **[Click Me](https://drive.google.com/file/d/1NvEIjxkwoQF9z_hOMGWDtxJLvsRxKmcJ/view?usp=sharing)**
+
+- - - - -
+
+## Full demo as a Manager
+
+Watch Here: **[Click Me](https://drive.google.com/file/d/1NvEIjxkwoQF9z_hOMGWDtxJLvsRxKmcJ/view?usp=sharing)**
